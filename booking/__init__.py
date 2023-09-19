@@ -1,0 +1,1 @@
+print('I am the init of the folder')
